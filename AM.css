@@ -6,23 +6,6 @@ body{
       text-align: center;
     }}
 
-    @media screen and (max-width: 480px) {
-        .container {
-            max-width: 90%; /* Adjust container width for smaller screens */
-          }
-        .contain {
-          max-width: 90%; /* Adjust container width for smaller screens */
-        }
-        .contains {
-            max-width: 90%; /* Adjust container width for smaller screens */
-          }
-          .write{
-            max-width: 90%; /* Adjust container width for smaller screens */
-          }
-          .foot {
-            max-width: 90%; /* Adjust container width for smaller screens */
-          }       
-      }
 
 .navbar{
     background-color: #F1EAFF;
