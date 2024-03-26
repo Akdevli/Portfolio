@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "html learner",
+			"path": "../../html learner"
+		},
+		{
+			"name": "Untitled Folder",
+			"path": ".."
+		},
+		{
+			"path": "../../azure nicrosoft"
+		},
+		{
+			"path": "../../OneDrive/Desktop/bootstrap-4.0.0-dist/bootstrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Untitled Folder"
+	}
+}
